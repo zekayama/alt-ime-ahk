@@ -105,6 +105,17 @@
 *~End::
 *~PgUp::
 *~PgDn::
+; Alt + Click を有効にしたいため追加（Blender 3.3）
+; ただしAltからのClickがほぼ同時でないと作用しない模様
+*~LButton::
+*~RButton::
+*~MButton::
+*~XButton1::
+*~XButton2::
+*~WheelDown::
+*~WheelUp::
+*~WheelLeft::
+*~WheelRight::
     Return
 
 ; 上部メニューがアクティブになるのを抑制
